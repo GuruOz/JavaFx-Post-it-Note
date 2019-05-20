@@ -323,8 +323,8 @@ public class PostItNoteStage {
 				Alert alert = new Alert(AlertType.INFORMATION);	
 				GridPane grid = new GridPane();
 				Label label1 = new Label("Digital Post-It Note Using JavaFX");	
-				Label label2 = new Label("Version 1.0");
-				Label label3 = new Label("Author: Guruparan Prakash");
+				Label label2 = new Label("Version 1.1");
+				Label label3 = new Label("Author: GuruOz");
 				Label label4 = new Label("Copyright (c) 2019");
 				Image image = new Image(getClass().getResource("pic.jpg").toExternalForm());
 				ImageView imageView = new ImageView(image);
